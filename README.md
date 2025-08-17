@@ -23,3 +23,5 @@ We are going to use different technologies such as Python, Amazon Web Services (
 ## Dataset Used
 Here is the dataset used in the project - https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
 
+## Demo 
+Here is the demo video link - https://drive.google.com/file/d/1cfnVgqmrzV2uXbiZF6qZnkDvLj0wWlOe/view?usp=sharing
